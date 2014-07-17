@@ -35,7 +35,7 @@
       <file leaf-file-name="buttons.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AdminLTE/pages/UI/buttons.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1006" column="48" selection-start="68077" selection-end="70993" vertical-scroll-proportion="-16.54717" vertical-offset="16225" max-vertical-offset="21777">
+            <state line="966" column="36" selection-start="68506" selection-end="68815" vertical-scroll-proportion="-3.7169812" vertical-offset="16225" max-vertical-offset="21777">
               <folding />
             </state>
           </provider>
@@ -65,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="waitingTable.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="waitingTable.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AdminLTE/pages/examples/waitingTable.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="405" column="0" selection-start="25054" selection-end="25054" vertical-scroll-proportion="0.6482353" vertical-offset="6334" max-vertical-offset="21828">
+            <state line="405" column="0" selection-start="25054" selection-end="25054" vertical-scroll-proportion="-21.192308" vertical-offset="6334" max-vertical-offset="21828">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#1;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -81,14 +81,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="simple.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdminLTE/pages/tables/simple.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="12359">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AdminLTE/pages/tables/data.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1276" column="44" selection-start="25166" selection-end="77415" vertical-scroll-proportion="-11.037736" vertical-offset="7813" max-vertical-offset="9061">
+            <state line="601" column="44" selection-start="35647" selection-end="35647" vertical-scroll-proportion="0.85540706" vertical-offset="3427" max-vertical-offset="4845">
               <folding>
                 <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#aside#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#section#1;tag#aside#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="widgets.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdminLTE/pages/widgets.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="427" column="44" selection-start="25321" selection-end="26237" vertical-scroll-proportion="-15.115385" vertical-offset="1120" max-vertical-offset="11917">
+              <folding>
+                <element signature="tag#div#0;tag#nav#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#section#0;tag#aside#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -98,15 +118,6 @@
         <entry file="file://$PROJECT_DIR$/AdminLTE/less/buttons.less">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="43.0" vertical-offset="2193" max-vertical-offset="3060">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="empty.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdminLTE/pages/UI/empty.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="27.461538" vertical-offset="714" max-vertical-offset="7242">
               <folding />
             </state>
           </provider>
@@ -139,6 +150,7 @@
         <option value="$PROJECT_DIR$/AdminLTE/css/AdminLTE.css" />
         <option value="$PROJECT_DIR$/AdminLTE/pages/examples/screenChoose.html" />
         <option value="$PROJECT_DIR$/AdminLTE/pages/examples/waitingTable.html" />
+        <option value="$PROJECT_DIR$/AdminLTE/pages/tables/data.html" />
       </list>
     </option>
   </component>
@@ -248,83 +260,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdminLTE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="tables" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdminLTE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdminLTE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -371,7 +307,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -450,13 +386,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE/pages/UI/buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1006" column="48" selection-start="68077" selection-end="70993" vertical-scroll-proportion="-16.54717" vertical-offset="16225" max-vertical-offset="21777">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AdminLTE/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="48" column="16" selection-start="2594" selection-end="2594" vertical-scroll-proportion="112.88461" vertical-offset="3751" max-vertical-offset="16269">
@@ -491,20 +420,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE/pages/tables/data.html">
+    <entry file="file://$PROJECT_DIR$/AdminLTE/pages/tables/simple.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1276" column="44" selection-start="25166" selection-end="77415" vertical-scroll-proportion="-11.037736" vertical-offset="7813" max-vertical-offset="9061">
-          <folding>
-            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#aside#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#section#1;tag#aside#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12359">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE/pages/UI/buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="966" column="36" selection-start="68506" selection-end="68815" vertical-scroll-proportion="-3.7169812" vertical-offset="16225" max-vertical-offset="21777">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AdminLTE/pages/examples/waitingTable.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="405" column="0" selection-start="25054" selection-end="25054" vertical-scroll-proportion="0.6482353" vertical-offset="6334" max-vertical-offset="21828">
+        <state line="405" column="0" selection-start="25054" selection-end="25054" vertical-scroll-proportion="-21.192308" vertical-offset="6334" max-vertical-offset="21828">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#1;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -512,6 +444,26 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#3;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#section#1;tag#aside#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#thead#0;tag#table#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#section#1;tag#aside#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE/pages/widgets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="427" column="44" selection-start="25321" selection-end="26237" vertical-scroll-proportion="-15.115385" vertical-offset="1120" max-vertical-offset="11917">
+          <folding>
+            <element signature="tag#div#0;tag#nav#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#section#0;tag#aside#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE/pages/tables/data.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="601" column="44" selection-start="35647" selection-end="35647" vertical-scroll-proportion="0.85540706" vertical-offset="3427" max-vertical-offset="4845">
+          <folding>
+            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#aside#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
